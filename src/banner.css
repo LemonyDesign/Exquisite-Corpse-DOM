@@ -1,0 +1,7 @@
+h1.branding__title {
+  color: var(--darkmode-highlight);
+  font: 1.625rem var(--brand-font);
+}
+a.branding__link {
+  text-decoration: none;
+}

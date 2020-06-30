@@ -1,0 +1,19 @@
+/* Variables
+   ========================================================================== */
+
+:root {
+  --primary-dark: #000000;
+  --primary-light: #fcfcfc;
+  --grey: #cccccc;
+  --warning: #ff0303;
+  --darkmode-bg-primary: #252526;
+  --darkmode-bg-secondary: #3a3b3c;
+  --darkmode-light: #bec2c9;
+  --darkmode-highlight: #15ffa5;
+
+  --brand-font: "Nanum Gothic Coding", monospace;
+  --body-font: "Montserrat", sans-serif;
+
+  /* spacing */
+  --main-padding: 1rem;
+}
